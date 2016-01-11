@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GliderWaypoint</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_load">Load</string>
+    <string name="button_send">Save</string>
+    <string name="button_add">Add</string>
+    <string name="button_remove">Remove</string>
+    <string name="tv_label">Turnpoint Radius (m)</string>
+    <string name="save_complete">Waypoints Save Complete</string>
+    <string name="save_failed">Waypoints Save Failed</string>
+    <string name="service_id">"service_id"</string>
+    <string name="wfd_name">"wfd_name"</string>
+    <string name="full_app_name">com.levemus.gliderwaypoint</string>
+</resources>
